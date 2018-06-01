@@ -1,5 +1,6 @@
 # AdsorptionRoundView
 
+![](https://github.com/hiETsang/AdsorptionRoundView/blob/master/iconDrag.gif)
 
 
 几行代码简单实现了类似于即刻app的头像拖动返回的效果
