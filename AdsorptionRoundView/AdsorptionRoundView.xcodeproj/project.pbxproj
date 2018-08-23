@@ -281,14 +281,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 62J9RVU398;
+				DEVELOPMENT_TEAM = 5BYP9G3J9X;
 				INFOPLIST_FILE = AdsorptionRoundView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = canoe.AdsorptionRoundView;
+				PRODUCT_BUNDLE_IDENTIFIER = canoe.AdsorptionRoundView.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -300,14 +300,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 62J9RVU398;
+				DEVELOPMENT_TEAM = 5BYP9G3J9X;
 				INFOPLIST_FILE = AdsorptionRoundView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = canoe.AdsorptionRoundView;
+				PRODUCT_BUNDLE_IDENTIFIER = canoe.AdsorptionRoundView.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
